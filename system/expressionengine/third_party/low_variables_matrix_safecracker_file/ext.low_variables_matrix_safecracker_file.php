@@ -31,7 +31,7 @@ class Low_variables_matrix_safecracker_file_ext {
 	public $docs_url		= '';
 	public $name			= 'Low Variables Matrix Safecracker File';
 	public $settings_exist	= 'n';
-	public $version			= '1.0';
+	public $version			= '1.0.0';
 	
 	private $EE;
 	
